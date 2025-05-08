@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Основы TypeScript",
+    "description": "Базовая викторина по возможностям и особенностям TypeScript.",
+    "questions": [
+      {
+        "question": "Что делает следующий код?\nconst user: { name: string } = { name: 'Alice' };",
+        "code": "const user: { name: string } = { name: 'Alice' };",
+        "answers": [
+          "Создаёт переменную user без типа",
+          "Определяет тип свойства name как number",
+          "Определяет тип свойства name как string"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Какой тип подойдёт для переменной, которая никогда не возвращает значение?",
+        "code": null,
+        "answers": [
+          "undefined",
+          "never",
+          "void"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "question": "Что произойдёт, если не указать тип переменной в TypeScript?",
+        "code": "let x = 5;",
+        "answers": [
+          "Будет ошибка компиляции",
+          "Будет присвоен тип any",
+          "Тип будет выведен как number"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Что делает оператор as в TypeScript?",
+        "code": "const input = value as string;",
+        "answers": [
+          "Проверяет тип во время выполнения",
+          "Преобразует строку в число",
+          "Указывает компилятору, что переменная — строка"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "question": "Какой из следующих типов безопаснее?",
+        "code": null,
+        "answers": [
+          "any",
+          "unknown",
+          "void"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  }
+]
