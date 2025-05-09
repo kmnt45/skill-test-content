@@ -10,5 +10,17 @@
     "description": "Описание категории TypeScript",
     "imageUrl": "https://example.com/images/typescript.png",
     "path": "typescript"
+  },
+  {
+    "title": "React",
+    "description": "Описание категории React",
+    "imageUrl": "https://example.com/images/javascript.png",
+    "path": "react"
+  },
+  {
+    "title": "HTML",
+    "description": "Описание категории HTML",
+    "imageUrl": "https://example.com/images/typescript.png",
+    "path": "html"
   }
 ]
