@@ -2,6 +2,7 @@
   {
     "title": "Основы JavaScript",
     "description": "Викторина для проверки базовых знаний по JavaScript, включая типы данных, область видимости и синтаксис.",
+    "path": "osnovy-javascript",
     "questions": [
       {
         "question": "Что выведет typeof null?",
@@ -58,6 +59,7 @@
   {
     "title": "Основы JavaScript",
     "description": "Викторина для проверки базовых знаний по JavaScript, включая типы данных, область видимости и синтаксис.",
+    "path": "osnovy-javascript-2",
     "questions": [
       {
         "question": "Что выведет typeof null?",
