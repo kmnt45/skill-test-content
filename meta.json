@@ -1,0 +1,14 @@
+[
+  {
+    "title": "JavaScript",
+    "description": "Описание категории JavaScript",
+    "imageUrl": "https://example.com/images/javascript.png",
+    "path": "javascript"
+  },
+  {
+    "title": "TypeScript",
+    "description": "Описание категории TypeScript",
+    "imageUrl": "https://example.com/images/typescript.png",
+    "path": "typescript"
+  }
+]
