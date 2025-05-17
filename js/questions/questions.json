@@ -1,4 +1,5 @@
 [
   { "slug": "ecma", "title": "Что такое ECMAScript?" },
-  { "slug": "closures", "title": "Что такое замыкания в JavaScript?" }
+  { "slug": "closures", "title": "Что такое замыкания в JavaScript?" },
+  {"slug":  "symbol", "title": "Что такое Symbol?"}
 ]
