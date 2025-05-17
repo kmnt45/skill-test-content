@@ -4,7 +4,7 @@
 
 Для создания символа нужно вызвать функцию Symbol:
 
-```javascript
+```js
 const sym = Symbol()
 const symTwo = Symbol()
 
