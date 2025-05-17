@@ -1,6 +1,4 @@
 {
-  "title": "Основы JavaScript",
-  "description": "Викторина для проверки базовых знаний по JavaScript, включая типы данных, область видимости и синтаксис.",
   "questions": [
     {
       "question": "Что выведет typeof null?",
