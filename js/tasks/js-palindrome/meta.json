@@ -1,4 +1,5 @@
 {
+  "title": "Проверка на палиндром",
   "tags": ["strings", "algorithms"],
   "difficulty": "easy",
   "points": 5,
