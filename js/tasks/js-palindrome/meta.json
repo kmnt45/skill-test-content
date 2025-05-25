@@ -1,0 +1,23 @@
+{
+  "tags": ["strings", "algorithms"],
+  "difficulty": "easy",
+  "points": 5,
+  "testCases": [
+    {
+      "input": "isPalindrome('Мадам')",
+      "expectedOutput": true
+    },
+    {
+      "input": "isPalindrome('Шалаш')",
+      "expectedOutput": true
+    },
+    {
+      "input": "isPalindrome('Стол')",
+      "expectedOutput": false
+    },
+    {
+      "input": "isPalindrome('Кореной')",
+      "expectedOutput": false
+    }
+  ]
+}

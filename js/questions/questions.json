@@ -1,14 +1,14 @@
 [
   {
-    "slug": "ecma",
-    "title": "Что такое ECMAScript?"
+    "title": "Что такое ECMAScript?",
+    "slug": "ecma"
   },
   {
-    "slug": "closures",
-    "title": "Что такое замыкания в JavaScript?"
+    "title": "Что такое замыкания в JavaScript?",
+    "slug": "closures"
   },
   {
-    "slug": "symbol",
-    "title": "Что такое Symbol?"
+    "title": "Что такое Symbol?",
+    "slug": "symbol"
   }
 ]

@@ -1,0 +1,23 @@
+{
+  "tags": ["numbers", "math"],
+  "difficulty": "easy",
+  "points": 10,
+  "testCases": [
+    {
+      "input": "sumDigits(123)",
+      "expectedOutput": 6
+    },
+    {
+      "input": "sumDigits(5)",
+      "expectedOutput": 5
+    },
+    {
+      "input": "sumDigits(0)",
+      "expectedOutput": 0
+    },
+    {
+      "input": "sumDigits(12461728368172638)",
+      "expectedOutput": 75
+    }
+  ]
+}
