@@ -25,64 +25,9 @@
     "image": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
   },
   {
-    "title": "Vue",
-    "path": "vue",
-    "image": "https://img.icons8.com/?size=100&id=123603&format=png&color=000000"
-  },
-  {
-    "title": "Angular",
-    "path": "angular",
-    "image": "https://img.icons8.com/?size=100&id=71257&format=png&color=000000"
-  },
-  {
-    "title": "Svelte",
-    "path": "svelte",
-    "image": "https://img.icons8.com/?size=100&id=H1zNnPC3dl5F&format=png&color=000000"
-  },
-  {
-    "title": "Python",
-    "path": "python",
-    "image": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
-  },
-  {
     "title": "Node.js",
     "path": "nodejs",
     "image": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
-  },
-  {
-    "title": "Go",
-    "path": "go",
-    "image": "https://img.icons8.com/?size=100&id=444520&format=png&color=000000"
-  },
-  {
-    "title": "PHP",
-    "path": "php",
-    "image": "https://img.icons8.com/?size=100&id=EzpcHkT0I7Ed&format=png&color=000000"
-  },
-  {
-    "title": "Java",
-    "path": "java",
-    "image": "https://img.icons8.com/?size=100&id=3bt7Csf-mJpB&format=png&color=000000"
-  },
-  {
-    "title": "Ruby",
-    "path": "ruby",
-    "image": "https://img.icons8.com/?size=100&id=112853&format=png&color=000000"
-  },
-  {
-    "title": "C#",
-    "path": "csharp",
-    "image": "https://img.icons8.com/?size=100&id=55251&format=png&color=000000"
-  },
-  {
-    "title": "C/C++",
-    "path": "cpp",
-    "image": "https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
-  },
-  {
-    "title": "Базы данных",
-    "path": "databases",
-    "image": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"
   },
   {
     "title": "Git",
@@ -90,38 +35,8 @@
     "image": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
   },
   {
-    "title": "Docker",
-    "path": "docker",
-    "image": "https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
-  },
-  {
     "title": "Computer Science",
     "path": "cs",
     "image": "https://img.icons8.com/?size=100&id=59975&format=png&color=000000"
-  },
-  {
-    "title": "Bash",
-    "path": "bash",
-    "image": "https://img.icons8.com/?size=100&id=81192&format=png&color=000000"
-  },
-  {
-    "title": "React Native",
-    "path": "react-native",
-    "image": "https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
-  },
-  {
-    "title": "Swift",
-    "path": "swift",
-    "image": "https://img.icons8.com/?size=100&id=wdn6bRGdI4iK&format=png&color=000000"
-  },
-  {
-    "title": "Kotlin",
-    "path": "kotlin",
-    "image": "https://img.icons8.com/?size=100&id=91971&format=png&color=000000"
-  },
-  {
-    "title": "Flutter",
-    "path": "flutter",
-    "image": "https://img.icons8.com/?size=100&id=z7pJqQZM1vHE&format=png&color=000000"
   }
 ]
