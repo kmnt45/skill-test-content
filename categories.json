@@ -2,16 +2,16 @@
   {
     "title": "JavaScript",
     "path": "js",
-    "image": "images/js.png"
+    "image": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
   },
   {
     "title": "TypeScript",
     "path": "ts",
-    "image": "images/ts.png"
+    "image": "https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"
   },
   {
     "title": "React",
     "path": "react",
-    "image": "images/react.png"
+    "image": "https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"
   }
 ]
