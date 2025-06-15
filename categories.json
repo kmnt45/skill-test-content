@@ -1,0 +1,17 @@
+[
+  {
+    "title": "JavaScript",
+    "path": "js",
+    "image": "images/js.png"
+  },
+  {
+    "title": "TypeScript",
+    "path": "ts",
+    "image": "images/ts.png"
+  },
+  {
+    "title": "React",
+    "path": "react",
+    "image": "images/react.png"
+  }
+]
