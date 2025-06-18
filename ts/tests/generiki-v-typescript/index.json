@@ -1,4 +1,5 @@
 {
+  "title": "Дженерики в TypeScript",
   "questions": [
     {
       "question": "Что такое дженерики (generics) в TypeScript?",

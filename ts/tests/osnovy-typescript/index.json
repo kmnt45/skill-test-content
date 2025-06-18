@@ -1,4 +1,5 @@
 {
+  "title": "Основы TypeScript",
   "questions": [
     {
       "question": "Какой тип данных задаёт строку?",
