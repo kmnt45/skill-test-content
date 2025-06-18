@@ -2,6 +2,16 @@
   {
     "slug": "osnovy-javascript",
     "title": "Основы JavaScript",
-    "total": 5
+    "points": 30
+  },
+  {
+    "slug": "asinhronnost",
+    "title": "Асинхронности",
+    "points": 100
+  },
+  {
+    "slug": "rabota-s-massivami",
+    "title": "Работа с массивами",
+    "points": 40
   }
 ]

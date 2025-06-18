@@ -2,7 +2,7 @@
   "title": "Проверка на палиндром",
   "tags": ["strings", "algorithms"],
   "difficulty": "easy",
-  "points": 5,
+  "points": 50,
   "testCases": [
     {
       "input": "isPalindrome('Мадам')",

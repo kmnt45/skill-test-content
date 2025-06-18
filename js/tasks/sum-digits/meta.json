@@ -2,7 +2,7 @@
   "title": "Сумма цифр числа",
   "tags": ["numbers", "math"],
   "difficulty": "easy",
-  "points": 10,
+  "points": 50,
   "testCases": [
     {
       "input": "sumDigits(123)",
