@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "Какой тип данных задаёт строку?",
+      "code": "let name: ____ = 'Alice';",
+      "answers": ["text", "string", "char"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Можно ли в TypeScript использовать объединённые типы (Union Types)?",
+      "code": "let a: string | number;",
+      "answers": ["Да", "Нет", "Только для функций"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Что такое интерфейс (interface)?",
+      "code": null,
+      "answers": [
+        "Способ задать структуру объекта",
+        "Функция",
+        "Тип для примитивов"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}

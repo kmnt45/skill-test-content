@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "question": "Что такое props в React?",
+      "code": null,
+      "answers": [
+        "Локальное состояние компонента",
+        "Параметры, передаваемые в компонент извне",
+        "Стили компонентов"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Можно ли изменить props внутри компонента?",
+      "code": null,
+      "answers": ["Да", "Нет", "Можно, но только в useEffect"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Как передать данные из родителя в дочерний компонент?",
+      "code": "<Child name='React' />",
+      "answers": [
+        "Через props",
+        "Через state",
+        "С помощью контекста"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}

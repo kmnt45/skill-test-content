@@ -1,0 +1,17 @@
+[
+  {
+    "path": "osnovy-react",
+    "title": "Основы React",
+    "points": 30
+  },
+  {
+    "path": "hooks-v-react",
+    "title": "Хуки в React",
+    "points": 60
+  },
+  {
+    "path": "sostoyanie-i-propsy",
+    "title": "Состояние и пропсы",
+    "points": 50
+  }
+]

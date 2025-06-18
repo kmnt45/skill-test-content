@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "question": "Что такое JSX?",
+      "code": null,
+      "answers": [
+        "Специальный синтаксис для работы с DOM напрямую",
+        "Синтаксис, похожий на HTML, используемый в React",
+        "Расширение JavaScript для серверной разработки"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Что должен возвращать React-компонент?",
+      "code": null,
+      "answers": ["HTML", "JSX", "DOM-элемент"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Как в React создать компонент?",
+      "code": "function MyComponent() { return <div>Hello</div>; }",
+      "answers": [
+        "С помощью функции или класса",
+        "Только с использованием классов",
+        "Через HTML-шаблоны"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
+}

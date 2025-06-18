@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "Какой хук используется для работы с состоянием?",
+      "code": "const [count, setCount] = use___(0);",
+      "answers": ["useEffect", "useState", "useMemo"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Когда вызывается useEffect без зависимостей?",
+      "code": "useEffect(() => { console.log('Hello'); }, []);",
+      "answers": [
+        "Каждый рендер",
+        "Один раз после монтирования",
+        "Никогда"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Можно ли использовать хуки вне компонентов?",
+      "code": null,
+      "answers": ["Да", "Нет", "Только useState"],
+      "correctAnswerIndex": 1
+    }
+  ]
+}
