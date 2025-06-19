@@ -1,14 +1,6 @@
 [
   {
-    "title": "Что такое ECMAScript?",
-    "slug": "ecma"
-  },
-  {
-    "title": "Что такое замыкания в JavaScript?",
-    "slug": "closures"
-  },
-  {
-    "title": "Что такое Symbol?",
-    "slug": "symbol"
+    "title": "Что такое TypeScript и как он связан с JavaScript? ",
+    "slug": "typescript-basics"
   }
 ]
