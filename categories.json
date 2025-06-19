@@ -23,20 +23,5 @@
     "title": "CSS",
     "path": "css",
     "image": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
-  },
-  {
-    "title": "Node.js",
-    "path": "nodejs",
-    "image": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
-  },
-  {
-    "title": "Git",
-    "path": "git",
-    "image": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
-  },
-  {
-    "title": "Computer Science",
-    "path": "cs",
-    "image": "https://img.icons8.com/?size=100&id=HQlPyGmo7Klv&format=png&color=ffffff"
   }
 ]
